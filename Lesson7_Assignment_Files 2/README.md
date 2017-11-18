@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 17th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Mariana Domine
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we learned how to play with feature effects
+
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://md14m.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The elements of the 'function' in js, and creating a new fil
+2. How to change the background
+3. How to add a hover feature in js
 
